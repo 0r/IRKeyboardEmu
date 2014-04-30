@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2156A48-5168-4F6A-8448-FFF6ED73BE73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IRKeyboardEmu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF85E8A2-906D-4009-9C10-AD32DD315162</key>
+		<string>https://github.com/0r/IRKeyboardEmu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IRKeyboardEmu.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF85E8A2-906D-4009-9C10-AD32DD315162</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/0r/IRKeyboardEmu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF85E8A2-906D-4009-9C10-AD32DD315162</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF85E8A2-906D-4009-9C10-AD32DD315162</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IRKeyboardEmu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
